@@ -1,5 +1,7 @@
 # YELP
 
+https://github.com/irmasanchez/YELP/tree/master
+
 This repository is prepared by Adriana de Vicente and Irma Sanchez Rubio
 
 adrianadevicente@cunef.edu
